@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @lethang7794
+/src/backend/database.py      @lethang7794
+/src/backend/routers/auth.py  @lethang7794
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @lethang7794
